@@ -1,6 +1,6 @@
 # Note
 This organization contains all classes taken since I started this journey.
-A lot was lost, but it is supposed to include:
+A lot was lost, but it is supposed to also include:
 
 Apex 📝
 LWC ⚡️
