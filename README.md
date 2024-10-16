@@ -8,3 +8,6 @@ GitHub Actions 🔧
 React ⚛️
 Unity 2D 🎮
 Unity 3D 🕹️
+
+
+Other than that I followed a Bachelor of Software Engineering @ Polytechnique Montreal
